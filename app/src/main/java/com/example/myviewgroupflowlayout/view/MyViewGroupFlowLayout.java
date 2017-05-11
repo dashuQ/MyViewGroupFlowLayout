@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 自定义ViewGroup流式布局
  * Created by lenovo on 2017/5/10.
  */
 
